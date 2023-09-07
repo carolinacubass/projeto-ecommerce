@@ -9,21 +9,36 @@
 <br>
 <h3>✔️Imagens do Projeto:</h3>
 <h4>🖥️ WEB</h4>
+<h4>Página Inicial pt.1</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-1.png" alt="imagem-projeto-1"/>
 
+<h4>Página Inicial pt.2</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-2.png" alt="imagem-projeto-2"/>
 
+<h4>Filtro Maculino</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-3.png" alt="imagem-projeto-3"/>
 
+<h4>Filtro Feminino</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-4.png" alt="imagem-projeto-4"/>
 
+<h4>Peças Adicionadas ao Carrinho</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-5.png" alt="imagem-projeto-5"/>
 
+<h4>Página para Preenchimento dos Dados Pessoais, Dados do Cartão e Endereço de Entrega</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-6.png" alt="imagem-projeto-6"/>
 
+<h4>Compra Finalizada</h4>
+<p>[N/A]</p>
 <img src="https://github.com/carolinacubass/projeto-ecommerce/blob/main/assets/img%20projeto/imagem-projeto-7.png" alt="imagem-projeto-7"/>
 <br>
 <h4>🎥 VIDEO</h4>
+<p>[N/A]</p>
 
 https://github.com/carolinacubass/projeto-ecommerce/assets/100492943/c09b098a-2e2c-49a0-828f-2032dc289541
 
