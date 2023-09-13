@@ -44,3 +44,5 @@
 
 https://github.com/carolinacubass/projeto-ecommerce/assets/100492943/c09b098a-2e2c-49a0-828f-2032dc289541
 
+<h4>:arrows_clockwise: DEPLOY</h4>
+:arrow_right: https://carolinacubass.github.io/projeto-ecommerce/
